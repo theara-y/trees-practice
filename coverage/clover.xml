@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1698246484937" clover="3.2.0">
+  <project timestamp="1698246484937" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="7" coveredconditionals="7" methods="15" coveredmethods="15" elements="41" coveredelements="41" complexity="0" loc="19" ncloc="19" packages="1" files="2" classes="2"/>
+    <file name="binary-tree.js" path="/home/tya/github/trees-practice/binary-tree.js">
+      <metrics statements="5" coveredstatements="5" conditionals="3" coveredconditionals="3" methods="10" coveredmethods="10"/>
+      <line num="5" count="237" type="stmt"/>
+      <line num="6" count="237" type="stmt"/>
+      <line num="7" count="237" type="stmt"/>
+      <line num="13" count="65" type="stmt"/>
+      <line num="75" count="1" type="stmt"/>
+    </file>
+    <file name="tree.js" path="/home/tya/github/trees-practice/tree.js">
+      <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+      <line num="5" count="90" type="stmt"/>
+      <line num="6" count="90" type="stmt"/>
+      <line num="12" count="27" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="22" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="26" count="10" type="stmt"/>
+      <line num="27" count="10" type="stmt"/>
+      <line num="28" count="10" type="stmt"/>
+      <line num="29" count="8" type="stmt"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
